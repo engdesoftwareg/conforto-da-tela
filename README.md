@@ -37,6 +37,14 @@ Com o compilador do .NET Framework instalado:
 csc /target:winexe /r:System.Windows.Forms.dll /r:System.Drawing.dll /r:System.Xml.Linq.dll src/ConfortoDaTela.cs
 ```
 
+## Política de assinatura de código
+
+Quando aprovado, o projeto usará **Free code signing provided by SignPath.io, certificate by SignPath Foundation**.
+
+- Committers e revisores: Getulio D-Eng de Soft.
+- Aprovador das versões: Getulio D-Eng de Soft.
+- O aplicativo não transfere informações para outros sistemas, exceto quando o usuário solicita uma ação de rede.
+
 ## Licença
 
 Este projeto está disponível sob a licença MIT. Consulte [`LICENSE`](LICENSE).
