@@ -15,6 +15,12 @@ Baixe a versão pronta em **[Releases](../../releases/latest)** e execute `Confo
 
 O aplicativo salva as preferências de cada usuário em sua própria pasta de dados do Windows. A tecla `Ctrl + Alt + F10` alterna entre filtro ativo e pausado.
 
+## Identificação do aplicativo
+
+Fabricante exibido nas propriedades do arquivo: **Getulio D-Eng de Soft**.
+
+O Windows pode exibir um aviso do SmartScreen em versões novas ou pouco baixadas. Esse aviso é baseado em reputação e assinatura digital; o nome do fabricante já está incorporado no executável.
+
 ## Compatibilidade
 
 Windows 10 e Windows 11 com .NET Framework 4.x disponível. O filtro cobre os monitores reconhecidos pelo Windows e acompanha a abertura de novas janelas comuns.

@@ -10,6 +10,16 @@ using System.Threading;
 using System.Xml.Linq;
 using System.Collections.Generic;
 
+using System.Reflection;
+
+[assembly: AssemblyTitle("Conforto da Tela")]
+[assembly: AssemblyDescription("Filtro de tela para reduzir o brilho além do limite do Windows")]
+[assembly: AssemblyCompany("Getulio D-Eng de Soft")]
+[assembly: AssemblyProduct("Conforto da Tela")]
+[assembly: AssemblyCopyright("Copyright (c) 2026 Getulio D-Eng de Soft")]
+[assembly: AssemblyVersion("1.0.1.0")]
+[assembly: AssemblyFileVersion("1.0.1.0")]
+
 namespace TelaConforto {
 static class Native {
  internal delegate void WindowEvent(IntPtr hook,uint evt,IntPtr hwnd,int objectId,int childId,uint thread,uint time);
