@@ -2,6 +2,12 @@
 
 Filtro de tela para Windows que reduz o brilho além do limite disponível nas configurações do sistema. Foi criado para ajudar quem precisa trabalhar ou estudar com mais conforto em notebooks simples, mesmo quando o brilho do Windows já está em 0%.
 
+## Imagens do aplicativo
+
+![Interface do Conforto da Tela](./Captura%20de%20tela%202026-09-13%20082325.png)
+
+![Material de divulgação do Conforto da Tela](./Gemini_Generated_Image_uvvoxtuvvoxtuvvo.jpg)
+
 ## Download
 
 Baixe a versão pronta em **[Releases](../../releases/latest)** e execute `Conforto da Tela.exe`. O aplicativo é portátil: não precisa de instalação nem de arquivos extras ao lado do EXE.
@@ -44,8 +50,3 @@ Quando aprovado, o projeto usará **Free code signing provided by SignPath.io, c
 - Committers e revisores: Getulio D-Eng de Soft.
 - Aprovador das versões: Getulio D-Eng de Soft.
 - O aplicativo não transfere informações para outros sistemas, exceto quando o usuário solicita uma ação de rede.
-
-## Licença
-
-Este projeto está disponível sob a licença MIT. Consulte [`LICENSE`](LICENSE).
-
